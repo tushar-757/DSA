@@ -6,7 +6,7 @@ public class ReverseStack {
         }
 
         // pop
-        int temp = numStack.pop();
+        int  temp = numStack.pop();
 
         reverseStack(numStack);
 

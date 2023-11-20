@@ -1,0 +1,5 @@
+valid parantheses
+
+remove outermost parentheses
+
+duplicate brackets
